@@ -1,2 +1,2 @@
 # INFO027
-Repositório para a disciplina do logica do ifba
+Repositório para a disciplina de introdução a lógica de programação do ifba
